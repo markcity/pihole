@@ -1,0 +1,21 @@
+# Title: Facebook-Hack-Block
+# Description: Since the facebook data breach I've been receiving texts - this file has all the 
+# Last modified: Tue, 27 Apr 2021, 21:05 UTC+02
+# Version: 2021.4.27.2
+# Expires: 7 days
+# Website: https://projektor.co.uk/vpn.html
+# Repository: https://github.com/pihole
+# Based on: https://github.com/PolishFiltersTeam/KAD
+# License: Unlicense
+#
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+#
+#
+#
+# Podejrzane i/lub strony polaczone z innymi oszustwami
+#@ >>>>>>>> https://raw.githubusercontent.com/markcity/pihole/master/sections/facebook-hack-block.txt => hosts
+0.0.0.0 meiquer.cn #dhl scam
+0.0.0.0 goatstudio.sg #dhl scam
+0.0.0.0 d8e.me #DHL scam
+0.0.0.0 confirm-mynew-transaction.com #LLOYDS bank scam
