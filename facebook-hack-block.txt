@@ -15,7 +15,7 @@
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 #@ >>>>>>>> https://raw.githubusercontent.com/markcity/pihole/master/sections/facebook-hack-block.txt => hosts
-0.0.0.0 meiquer.cn #dhl scam
-0.0.0.0 goatstudio.sg #dhl scam
-0.0.0.0 d8e.me #DHL scam
-0.0.0.0 confirm-mynew-transaction.com #LLOYDS bank scam
+145.239.255.51 meiquer.cn #dhl scam
+145.239.255.51 goatstudio.sg #dhl scam
+145.239.255.51 d8e.me #DHL scam
+145.239.255.51 confirm-mynew-transaction.com #LLOYDS bank scam
